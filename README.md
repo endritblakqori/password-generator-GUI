@@ -1,2 +1,3 @@
 # password-generator-GUI
- Password generator app using GUI tkinter
+
+ Simple password generator app using GUI tkinter and customtkinter.
